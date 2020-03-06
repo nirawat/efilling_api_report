@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\THD.Core.Api.Entities\THD.Core.Api.Entities.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Models\THD.Core.Api.Models.csproj" />
+  </ItemGroup>
+
+</Project>

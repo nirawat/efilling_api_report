@@ -1,0 +1,176 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ReportFiles\rptR1.repx" />
+    <None Remove="ReportFiles\rptR10.repx" />
+    <None Remove="ReportFiles\rptR11.repx" />
+    <None Remove="ReportFiles\rptR12.repx" />
+    <None Remove="ReportFiles\rptR13.repx" />
+    <None Remove="ReportFiles\rptR14.repx" />
+    <None Remove="ReportFiles\rptR15.repx" />
+    <None Remove="ReportFiles\rptR15_1_1.repx" />
+    <None Remove="ReportFiles\rptR15_1_2.repx" />
+    <None Remove="ReportFiles\rptR15_2.repx" />
+    <None Remove="ReportFiles\rptR16.repx" />
+    <None Remove="ReportFiles\rptR17.repx" />
+    <None Remove="ReportFiles\rptR18.repx" />
+    <None Remove="ReportFiles\rptR3.repx" />
+    <None Remove="ReportFiles\rptR4.repx" />
+    <None Remove="ReportFiles\rptR5.repx" />
+    <None Remove="ReportFiles\rptR6.repx" />
+    <None Remove="ReportFiles\rptR7.repx" />
+    <None Remove="ReportFiles\rptR8.repx" />
+    <None Remove="ReportFiles\rptR9.repx" />
+    <None Remove="rptR14.repx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ReportFiles\rptR1.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR10.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR11.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR12.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR13.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR16.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR17.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR18.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR3.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR4.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR5.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR6.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR7.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR8.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR9.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR15.repx" />
+    <EmbeddedResource Include="ReportFiles\rptR14.repx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Reporting.Core" Version="19.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\THD.Core.Api.Entities\THD.Core.Api.Entities.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Helpers\THD.Core.Api.Helpers.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Models\THD.Core.Api.Models.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Repository.Interface\THD.Core.Api.Repository.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{c0c07587-41a7-46c8-8fbd-3f9c8ebe2ddc}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ReportFiles\rptR1.cs">
+      <DependentUpon>rptR1.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR1.Designer.cs">
+      <DependentUpon>rptR1.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR10.cs">
+      <DependentUpon>rptR10.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR10.Designer.cs">
+      <DependentUpon>rptR10.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR11.cs">
+      <DependentUpon>rptR11.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR11.Designer.cs">
+      <DependentUpon>rptR11.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR12.cs">
+      <DependentUpon>rptR12.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR12.Designer.cs">
+      <DependentUpon>rptR12.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR13.cs">
+      <DependentUpon>rptR13.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR13.Designer.cs">
+      <DependentUpon>rptR13.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR16.cs">
+      <DependentUpon>rptR16.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR16.Designer.cs">
+      <DependentUpon>rptR16.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR17.cs">
+      <DependentUpon>rptR17.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR17.Designer.cs">
+      <DependentUpon>rptR17.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR18.cs">
+      <DependentUpon>rptR18.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR18.Designer.cs">
+      <DependentUpon>rptR18.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR3.cs">
+      <DependentUpon>rptR3.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR3.Designer.cs">
+      <DependentUpon>rptR3.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR4.cs">
+      <DependentUpon>rptR4.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR4.Designer.cs">
+      <DependentUpon>rptR4.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR5.cs">
+      <DependentUpon>rptR5.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR5.Designer.cs">
+      <DependentUpon>rptR5.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR6.cs">
+      <DependentUpon>rptR6.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR6.Designer.cs">
+      <DependentUpon>rptR6.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR7.cs">
+      <DependentUpon>rptR7.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR7.Designer.cs">
+      <DependentUpon>rptR7.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR8.cs">
+      <DependentUpon>rptR8.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR8.Designer.cs">
+      <DependentUpon>rptR8.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR9.cs">
+      <DependentUpon>rptR9.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR9.Designer.cs">
+      <DependentUpon>rptR9.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR15.cs">
+      <DependentUpon>rptR15.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR15.Designer.cs">
+      <DependentUpon>rptR15.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR14.cs">
+      <DependentUpon>rptR14.repx</DependentUpon>
+    </Compile>
+    <Compile Update="ReportFiles\rptR14.Designer.cs">
+      <DependentUpon>rptR14.repx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>

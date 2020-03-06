@@ -1,0 +1,13 @@
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Business.Interface.deps.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Business.Interface.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Business.Interface.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Entities.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Models.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Entities.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Models.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Business.Interface.csprojAssemblyReference.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Business.Interface.AssemblyInfoInputs.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Business.Interface.AssemblyInfo.cs
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Business.Interface.csproj.CopyComplete
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Business.Interface.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Business.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Business.Interface.pdb

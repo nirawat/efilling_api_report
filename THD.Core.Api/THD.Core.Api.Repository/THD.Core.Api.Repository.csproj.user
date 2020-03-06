@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ReportFiles\rptR1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR10.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR11.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR12.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR13.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR16.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR17.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR18.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR5.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR6.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR7.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR8.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR9.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR15.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReportFiles\rptR14.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

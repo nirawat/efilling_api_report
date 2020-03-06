@@ -1,0 +1,11 @@
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\bin\Debug\netstandard2.0\THD.Core.Api.Models.deps.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\bin\Debug\netstandard2.0\THD.Core.Api.Models.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\bin\Debug\netstandard2.0\THD.Core.Api.Models.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\obj\Debug\netstandard2.0\THD.Core.Api.Models.AssemblyInfoInputs.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\obj\Debug\netstandard2.0\THD.Core.Api.Models.AssemblyInfo.cs
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\obj\Debug\netstandard2.0\THD.Core.Api.Models.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\obj\Debug\netstandard2.0\THD.Core.Api.Models.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\obj\Debug\netstandard2.0\THD.Core.Api.Models.csproj.CopyComplete
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Models\obj\Debug\netstandard2.0\THD.Core.Api.Models.csprojAssemblyReference.cache

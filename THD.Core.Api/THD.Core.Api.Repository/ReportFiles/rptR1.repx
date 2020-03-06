@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="19.2.4.0" Ref="1" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v19.2, Version=19.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="rptR1" Margins="83, 37, 25, 20" PaperKind="A4" PageWidth="827" PageHeight="1169" Version="19.2" DataSource="#Ref-0" Font="Arial, 9.75pt">
+  <Bands>
+    <Item1 Ref="2" ControlType="TopMarginBand" Name="TopMargin" HeightF="25.0416756" />
+    <Item2 Ref="3" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="19.5246372" />
+    <Item3 Ref="4" ControlType="DetailBand" Name="Detail" HeightF="86.99997" Font="Arial, 16pt">
+      <Controls>
+        <Item1 Ref="5" ControlType="XRRichText" Name="richText2" SerializableRtfString="ewBcAHIAdABmADEAXABkAGUAZgBmADAAewBcAGYAbwBuAHQAdABiAGwAewBcAGYAMAAgAEMAYQBsAGkAYgByAGkAOwB9AHsAXABmADEAIABUAGkAbQBlAHMAIABOAGUAdwAgAFIAbwBtAGEAbgA7AH0AewBcAGYAMgBcAGYAYwBoAGEAcgBzAGUAdAAyADIAMgAgAFQASAAgAFMAYQByAGEAYgB1AG4AIABOAGUAdwA7AH0AfQB7AFwAYwBvAGwAbwByAHQAYgBsACAAOwBcAHIAZQBkADAAXABnAHIAZQBlAG4AMABcAGIAbAB1AGUAMAAgADsAXAByAGUAZAAwAFwAZwByAGUAZQBuADAAXABiAGwAdQBlADIANQA1ACAAOwB9AHsAXAAqAFwAZABlAGYAYwBoAHAAIABcAGYAMQBcAGYAcwAyADQAfQB7AFwAcwB0AHkAbABlAHMAaABlAGUAdAAgAHsAXABxAGwAXABmADEAXABmAHMAMgA0ACAATgBvAHIAbQBhAGwAOwB9AHsAXAAqAFwAYwBzADEAXABmADEAXABmAHMAMgA0ACAARABlAGYAYQB1AGwAdAAgAFAAYQByAGEAZwByAGEAcABoACAARgBvAG4AdAA7AH0AewBcACoAXABjAHMAMgBcAHMAYgBhAHMAZQBkAG8AbgAxAFwAZgAxAFwAZgBzADIANABcAGMAZgAxACAATABpAG4AZQAgAE4AdQBtAGIAZQByADsAfQB7AFwAKgBcAGMAcwAzAFwAZgAxAFwAZgBzADIANABcAHUAbABcAGMAZgAyACAASAB5AHAAZQByAGwAaQBuAGsAOwB9AHsAXAAqAFwAdABzADQAXAB0AHMAcgBvAHcAZABcAGYAMQBcAGYAcwAyADQAXABxAGwAXAB0AHMAYwBlAGwAbABwAGEAZABkAGYAbAAzAFwAdABzAGMAZQBsAGwAcABhAGQAZABsADEAMAA4AFwAdABzAGMAZQBsAGwAcABhAGQAZABmAGIAMwBcAHQAcwBjAGUAbABsAHAAYQBkAGQAZgByADMAXAB0AHMAYwBlAGwAbABwAGEAZABkAHIAMQAwADgAXAB0AHMAYwBlAGwAbABwAGEAZABkAGYAdAAzAFwAdABzAHYAZQByAHQAYQBsAHQAXABjAGwAdAB4AGwAcgB0AGIAIABOAG8AcgBtAGEAbAAgAFQAYQBiAGwAZQA7AH0AewBcACoAXAB0AHMANQBcAHQAcwByAG8AdwBkAFwAcwBiAGEAcwBlAGQAbwBuADQAXABmADEAXABmAHMAMgA0AFwAcQBsAFwAdAByAGIAcgBkAHIAdABcAGIAcgBkAHIAcwBcAGIAcgBkAHIAdwAxADAAXAB0AHIAYgByAGQAcgBsAFwAYgByAGQAcgBzAFwAYgByAGQAcgB3ADEAMABcAHQAcgBiAHIAZAByAGIAXABiAHIAZAByAHMAXABiAHIAZAByAHcAMQAwAFwAdAByAGIAcgBkAHIAcgBcAGIAcgBkAHIAcwBcAGIAcgBkAHIAdwAxADAAXAB0AHIAYgByAGQAcgBoAFwAYgByAGQAcgBzAFwAYgByAGQAcgB3ADEAMABcAHQAcgBiAHIAZAByAHYAXABiAHIAZAByAHMAXABiAHIAZAByAHcAMQAwAFwAdABzAGMAZQBsAGwAcABhAGQAZABmAGwAMwBcAHQAcwBjAGUAbABsAHAAYQBkAGQAbAAxADAAOABcAHQAcwBjAGUAbABsAHAAYQBkAGQAZgByADMAXAB0AHMAYwBlAGwAbABwAGEAZABkAHIAMQAwADgAXAB0AHMAdgBlAHIAdABhAGwAdABcAGMAbAB0AHgAbAByAHQAYgAgAFQAYQBiAGwAZQAgAFMAaQBtAHAAbABlACAAMQA7AH0AfQB7AFwAKgBcAGwAaQBzAHQAbwB2AGUAcgByAGkAZABlAHQAYQBiAGwAZQB9AFwAbgBvAHUAaQBjAG8AbQBwAGEAdABcAHMAcABsAHkAdAB3AG4AaQBuAGUAXABoAHQAbQBhAHUAdABzAHAAXABhAGwAbgB0AGIAbABpAG4AZABcAGUAeABwAHMAaAByAHQAbgBcAHMAcABsAHQAcABnAHAAYQByAFwAbgBvAGcAcgBvAHcAYQB1AHQAbwBmAGkAdABcAHUAdABpAG4AbABcAHAAYQByAGQAXABwAGwAYQBpAG4AXABxAGwAXABmADIAXABmAHMAMwAyAFwAYwBmADEAXABwAGEAcgB9AA==" SizeF="706.457458,26.9999962" LocationFloat="0.5427043, 59.9999733" Font="Arial, 9.75pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="6" EventName="BeforePrint" PropertyName="Html" Expression="[line1]" />
+          </ExpressionBindings>
+          <StylePriority Ref="7" UseFont="false" />
+        </Item1>
+        <Item2 Ref="8" ControlType="XRCheckBox" Name="checkBox2" Text=" นิสิตระดับปริญญาตรี" SizeF="248.627167,30" LocationFloat="458.373016, 0" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="9" EventName="BeforePrint" PropertyName="CheckState" Expression="[Position_2]" />
+          </ExpressionBindings>
+          <StylePriority Ref="10" UseFont="false" />
+        </Item2>
+        <Item3 Ref="11" ControlType="XRCheckBox" Name="checkBox3" TextAlignment="BottomLeft" Text=" นิสิตระดับปริญญาโท" SizeF="159.67,30" LocationFloat="0, 30" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="12" EventName="BeforePrint" PropertyName="CheckState" Expression="[Position_3]" />
+          </ExpressionBindings>
+          <StylePriority Ref="13" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="14" ControlType="XRCheckBox" Name="checkBox4" TextAlignment="BottomLeft" Text=" นิสิตระดับปริญญาเอก" SizeF="163.33,30" LocationFloat="172.2063, 30" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="15" EventName="BeforePrint" PropertyName="CheckState" Expression="[Position_4]" />
+          </ExpressionBindings>
+          <StylePriority Ref="16" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="17" ControlType="XRCheckBox" Name="checkBox5" TextAlignment="BottomLeft" Text=" อื่น ๆ  (ระบุ)" SizeF="107.71,30" LocationFloat="350.664429, 30" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="18" EventName="BeforePrint" PropertyName="CheckState" Expression="[Position_5]" />
+          </ExpressionBindings>
+          <StylePriority Ref="19" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="20" ControlType="XRLabel" Name="label50" Multiline="true" TextAlignment="BottomLeft" SizeF="248.63,22" LocationFloat="458.37442, 29.9999866" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="21" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="22" ControlType="XRRichText" Name="richText3" CanGrow="false" SerializableRtfString="ewBcAHIAdABmADEAXABkAGUAZgBmADAAewBcAGYAbwBuAHQAdABiAGwAewBcAGYAMAAgAEMAYQBsAGkAYgByAGkAOwB9AHsAXABmADEAIABUAGkAbQBlAHMAIABOAGUAdwAgAFIAbwBtAGEAbgA7AH0AewBcAGYAMgBcAGYAYwBoAGEAcgBzAGUAdAAyADIAMgAgAFQASAAgAFMAYQByAGEAYgB1AG4AIABOAGUAdwA7AH0AfQB7AFwAYwBvAGwAbwByAHQAYgBsACAAOwBcAHIAZQBkADAAXABnAHIAZQBlAG4AMABcAGIAbAB1AGUAMAAgADsAXAByAGUAZAAwAFwAZwByAGUAZQBuADAAXABiAGwAdQBlADIANQA1ACAAOwB9AHsAXAAqAFwAZABlAGYAYwBoAHAAIABcAGYAMQBcAGYAcwAyADQAfQB7AFwAcwB0AHkAbABlAHMAaABlAGUAdAAgAHsAXABxAGwAXABmADEAXABmAHMAMgA0ACAATgBvAHIAbQBhAGwAOwB9AHsAXAAqAFwAYwBzADEAXABmADEAXABmAHMAMgA0ACAARABlAGYAYQB1AGwAdAAgAFAAYQByAGEAZwByAGEAcABoACAARgBvAG4AdAA7AH0AewBcACoAXABjAHMAMgBcAHMAYgBhAHMAZQBkAG8AbgAxAFwAZgAxAFwAZgBzADIANABcAGMAZgAxACAATABpAG4AZQAgAE4AdQBtAGIAZQByADsAfQB7AFwAKgBcAGMAcwAzAFwAZgAxAFwAZgBzADIANABcAHUAbABcAGMAZgAyACAASAB5AHAAZQByAGwAaQBuAGsAOwB9AHsAXAAqAFwAdABzADQAXAB0AHMAcgBvAHcAZABcAGYAMQBcAGYAcwAyADQAXABxAGwAXAB0AHMAYwBlAGwAbABwAGEAZABkAGYAbAAzAFwAdABzAGMAZQBsAGwAcABhAGQAZABsADEAMAA4AFwAdABzAGMAZQBsAGwAcABhAGQAZABmAGIAMwBcAHQAcwBjAGUAbABsAHAAYQBkAGQAZgByADMAXAB0AHMAYwBlAGwAbABwAGEAZABkAHIAMQAwADgAXAB0AHMAYwBlAGwAbABwAGEAZABkAGYAdAAzAFwAdABzAHYAZQByAHQAYQBsAHQAXABjAGwAdAB4AGwAcgB0AGIAIABOAG8AcgBtAGEAbAAgAFQAYQBiAGwAZQA7AH0AewBcACoAXAB0AHMANQBcAHQAcwByAG8AdwBkAFwAcwBiAGEAcwBlAGQAbwBuADQAXABmADEAXABmAHMAMgA0AFwAcQBsAFwAdAByAGIAcgBkAHIAdABcAGIAcgBkAHIAcwBcAGIAcgBkAHIAdwAxADAAXAB0AHIAYgByAGQAcgBsAFwAYgByAGQAcgBzAFwAYgByAGQAcgB3ADEAMABcAHQAcgBiAHIAZAByAGIAXABiAHIAZAByAHMAXABiAHIAZAByAHcAMQAwAFwAdAByAGIAcgBkAHIAcgBcAGIAcgBkAHIAcwBcAGIAcgBkAHIAdwAxADAAXAB0AHIAYgByAGQAcgBoAFwAYgByAGQAcgBzAFwAYgByAGQAcgB3ADEAMABcAHQAcgBiAHIAZAByAHYAXABiAHIAZAByAHMAXABiAHIAZAByAHcAMQAwAFwAdABzAGMAZQBsAGwAcABhAGQAZABmAGwAMwBcAHQAcwBjAGUAbABsAHAAYQBkAGQAbAAxADAAOABcAHQAcwBjAGUAbABsAHAAYQBkAGQAZgByADMAXAB0AHMAYwBlAGwAbABwAGEAZABkAHIAMQAwADgAXAB0AHMAdgBlAHIAdABhAGwAdABcAGMAbAB0AHgAbAByAHQAYgAgAFQAYQBiAGwAZQAgAFMAaQBtAHAAbABlACAAMQA7AH0AfQB7AFwAKgBcAGwAaQBzAHQAbwB2AGUAcgByAGkAZABlAHQAYQBiAGwAZQB9AFwAbgBvAHUAaQBjAG8AbQBwAGEAdABcAHMAcABsAHkAdAB3AG4AaQBuAGUAXABoAHQAbQBhAHUAdABzAHAAXABhAGwAbgB0AGIAbABpAG4AZABcAGUAeABwAHMAaAByAHQAbgBcAHMAcABsAHQAcABnAHAAYQByAFwAbgBvAGcAcgBvAHcAYQB1AHQAbwBmAGkAdABcAHUAdABpAG4AbABcAHAAYQByAGQAXABwAGwAYQBpAG4AXABxAGwAXABmADIAXABmAHMAMwAyAFwAYwBmADEAXABwAGEAcgB9AA==" SizeF="319.172,30" LocationFloat="44.4133759, 0" Font="Arial, 9.75pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="23" EventName="BeforePrint" PropertyName="Html" Expression="[Presenter_name]" />
+          </ExpressionBindings>
+          <StylePriority Ref="24" UseFont="false" />
+        </Item7>
+        <Item8 Ref="25" ControlType="XRCheckBox" Name="checkBox1" Text=" อาจารย์" SizeF="93.66507,30" LocationFloat="364.7079, 0" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="26" EventName="BeforePrint" PropertyName="CheckState" Expression="[Position_1]" />
+          </ExpressionBindings>
+          <StylePriority Ref="27" UseFont="false" />
+        </Item8>
+      </Controls>
+      <StylePriority Ref="28" UseFont="false" />
+    </Item3>
+    <Item4 Ref="29" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="308.54184">
+      <Controls>
+        <Item1 Ref="30" ControlType="XRLabel" Name="label52" Multiline="true" Text="ประธานคณะกรรมการควบคุมความปลอดภัยทางชีวภาพ มหาวิทยาลัยนเรศวร" TextAlignment="MiddleLeft" SizeF="653.7497,27.000061" LocationFloat="44.4133759, 268.000031" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="31" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="32" ControlType="XRLabel" Name="label6" Multiline="true" Text="เรียน" TextAlignment="BottomLeft" SizeF="44.4133759,27" LocationFloat="0, 267.999969" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Solid">
+          <StylePriority Ref="33" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="34" ControlType="XRLabel" Name="label4" Multiline="true" Text="label4" TextAlignment="TopLeft" SizeF="657.3784,27" LocationFloat="44.4133759, 240.666779" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <ExpressionBindings>
+            <Item1 Ref="35" EventName="BeforePrint" PropertyName="Text" Expression="[title]" />
+          </ExpressionBindings>
+          <StylePriority Ref="36" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="37" ControlType="XRLabel" Name="label2" Multiline="true" Text="label2" SizeF="121.042542,23.0000038" LocationFloat="575.957458, 10" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="38" EventName="BeforePrint" PropertyName="Text" Expression="[doccode]" />
+          </ExpressionBindings>
+          <StylePriority Ref="39" UseFont="false" />
+        </Item4>
+        <Item5 Ref="40" ControlType="XRPictureBox" Name="pictureBox2" ImageSource="img,iVBORw0KGgoAAAANSUhEUgAAAFsAAABbCAYAAAAcNvmZAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAASdAAAEnQB3mYfeAAAGCRJREFUeF7t3AOUZEkTBeC1bdu2bdu2bdu2PWvbtm3btvM/X27F7Ptre7bfq66qmd3tOOedrnrOm5E3bkRmdV+p29pm3WC30brBbqN1g91G6wa7jdYNdhutYbBvuummtMACC6SLL764tuffbWussUYadNBB02OPPVbbU90aAnuXXXZJffXVVxprrLHSp59+Wtv777bff/89LbTQQmmwwQZLjzzySG1vNasMNk9ecMEF0zjjjJOuu+662t7/hj3wwANpqKGGSksvvXT6/PPPa3vLWyWwf/vtt7TCCiukHXfcMY066qjp119/rR35b9g333yTRhlllLT66qs35GiVwH7ooYfS7rvvnlZdddU000wz1fb+t2yYYYZJ6623XlprrbXSu+++W9tbziqBPfXUU6cjjjgizT777Gneeeet7f3vmJE93HDDpcUXXzyLA05XxUqD/eGHH+aguPLKK6dJJpkkjT/++DlotNs0mGe9+eabtT3ttaGHHjptsskmabHFFkv99NNPfp+yVhrsyy+/PIONr3HWaKONlt56663a0c6tykv9nQHZe5x//vm1PV2zTz75pPapc0Mbnn3AAQekbbbZJgOPWstaabA32GCDdNRRR6Vjjz02nXHGGWnWWWdNp5xySu1or+2NN95I66yzTppwwgnT2GOPnRZZZJF05plnpu+//752RjW78MIL02qrrZb22GOP2p5q9uqrr6btttsuTTvttDnYDTDAALktJ598cvr5559rZ3VszhlvvPHSRRddlLbffvv8nROWtdJge8HbbrstTT/99Omaa67JQ3nZZZetHf3TLrnkknTttdfmFz/ssMPSkEMOmb3BNu644/b8PN1006XvvvuudlV5E5hOOOGEzJkffPBBbW85+/HHH9PMM8+cny9BWX/99bMDxDvNNttseeTccsstaf/99/8LTa699trZoyU23h8GMClrpcE2dPbbb780+OCDZ1G/1157pZVWWindfPPNtTP+MInOQAMNlP9GIzTIKPByggvPdo+q0vGHH37II+O5557LwemCCy6oHSlnwNNB9957b35/dHjeeedlD+2///7zu/L00UcfPQ044ID/5wzoYs0118x8fc8992Qc5pprruxcZa002DvvvHM69dRTU3/99ZcOOuigPJS22GKLnMa+//776Z133snnLb/88rkhm2++eX554PIUQAO8K9r8mWeeyc9mL7/8cu78rtjDDz+cvfmYY47JHioOkbZXX311jk1MO88+++xMhXKMo48+Op100km5bRK8G264IZ9XxkqDfeKJJ2YP2HrrrTP/vv7662mVVVbJHjbCCCPk/ezRRx/NnMquuOKK/J1yqR8BVU0DNXbFFVfMgO+www45k1t33XXTTz/9VDurMXOPQw89tCdn77rrrpkKmWcB9sADD8ye/dFHH+X2yqIBf/DBB+fzylhpsHGVYWcobrjhhun000/PioAM9DLzzDNPPg/dHHnkkfkz4+nXX3997VvjJj4MP/zw+VnBsxo91VRTZS/vihlt6ClGJ8fgyYzURSnayZNfeeWVtPDCC6fjjjsuv4cRXNZKg73ZZpvleogX49EjjTRS3q8DpO5LLbVUVgo8LwKXYb/ooovmz10xkmu55ZbLHOod/OVlu+22W7rvvvvS3nvvXTvzD15uxATds846q/Yt5eBJaUjiAB0jd/7558/PQ4k63DuUtdJgUyBujr8EGJ+33HLLfGyWWWZJTz75ZKYXnhZ2++23Z15v1Iwcz5BATDnllFmJoCQJFk4dccQR05JLLplVzsYbb5w7/IsvvqhdXc3wN6oKM3oJAHHK/T1z3333zQ5FsYgXkpqgmzJWGuxnn3029zD5oyCj4QD30Oj5+eabL2vXMJFewGnEVNXwobIm7ypKNMqh7777zp+VPAVv2n/OOefMoPzyyy+1u5Q3o9DoZUav58bzVPqUlaeYYooch6iiMcYYIx97/vnn8zVlrDTYTz31VKYL3rTMMsvkfSjDAwceeOCcTdHg1Iq6icCpEwSfRkzDFX3wo04jtaLxxQ3wQBZDhhhiiDTmmGNmdVTVOA3Jqg1Gj870TDRICu6zzz7Zs5n4Ec+vUtsuDbbUPB4gYARX6XEAi86TTz55Hlpxns0L49WqJkPEy+6v04r3JNNISp9DHyuOkZhiyNNPP127Szn7+OOPM9DFZ9j67bfftOmmm2YHO/744/O50nv0wrmc89prr+X9Zaw02Gobk002WfY2lS8AB8eJyIa5oWV//Uu7pmp6PuOMM2YlQxXI1nC3e8v8NFbHAgON6GjnKycIoCRZFdtqq63yfYKabNoiS/V50kknTV9//XUePUaO8jK6lI1WkZ2lwWa09kQTTZQDhqHrgYccckg+RgMDXJIzyCCD5GA58sgj9xzmEc3LGqqScOBLIAtUvEmw3GijjfLICsBJQs9UAhY38GpZu+yyyzJNoAaJF6qURXq+DBHYnIpn+4xmnMvxUEsVqwQ2Lhx22GGzF0w88cRp7rnnzo2lwXmUl0YjAEY14SUx5ASysibgCcrUjGfeeOONOVs7/PDDc4fyZlKtyJ+UkuxVsCtjPXr0yBIWcHEP769N8d02xxxz5L86nyR0XF5RlR4rgc1ChdhOO+20nG3F9yWWWCIHlAhmeFVBR5JAGvJ+nFqm3ApYCQVA77777tw4oBsxPhvKuNSzfDa8dQIH+Oqrr2p36bUpkqn2RTClKs4999yeMYCDFGmFCqOKFNaMNCOoqlUGm7rYdtttMzV4sIzxqquu6hnEDHON91nRpt4AqLzZGdcpB+B6w1bhCl9Gw3XYNNNMkz+jNQkJXqeOOENnhoKUFL799tvanj8savY2ysZfbZTESOd9R2u8nzSsapXB1jBg4zYNRBcSCuoB4PhTzzvm5Tqq99LPgotJ014thaB+gIfr1UEkOHgTT5KWONXzqAVZnSISQKKA1JGRaZwB9dSb90ApOo8KEn+i7iM2aIsOlrRRPjCoapXB/uyzz7Jniv6A0DgchrNFcGnspZdemoe/F8Tvjz/+eO3qP00mJvOkbCgOlTYRP0ziIAYo1QISDRkpeNZn9RBcyuNdT+s7r17Xq2XwZMHTpphWb+rcwcvuI3vk9Rwi+By4OkHbxYUnnniidnV5qww2Ayhvxo877bRTViSGJWrhGW+//XY+DwV4UaD1as4wMjVACYY6Qe0D77peJ+hM99dI58Ym4ZEt6nBe6T3wtufrcIGbYorzVSA7MhLTcVqb55ooUf+RxHhvHbznnntmlTLBBBNk7d+INQS2dJZX62m6V4PuuOOOXEiXfZF8gqdU3ZDXEOoFD9ebABvRXbGJp6MowVDjAyzDH4UEcKSea4wG5U/7vAtAfEZn6ik+81YdXj9fKFB7pnO8t6xVrYXuNqKk/hKk0NvO9R5GQiPWENiMwvACGhp6FJfhbt5KotHDxcwMzdQPPwkKIBzHw+gDNwMdJ/uMM9EUD9bBgizqwNd33nlnlmMSK58FMOfHSMKz+Bc11Cc7KCfeLTYJDIkKbFLPPh1hVDnmPo1aw2BLWwFgKPNgsgiFxEvTwSjAi6v+4Xj7eVmkvgzA+BK333rrrbW9f9RGAG4Bp4K9Z4SMVKSSYkvPTSDoUNJNMuMZFFIYJWHkeEY8Fx8bFc4l73iuhAY16shoA45XM0FH6AnNqdM0ag2DzXgKMCmUmBMk03gasDWQJ/JCx6MRtgDW0OSJGq1TmOGLdjSWlgaODFLH0rcUEJoAAI7F1WiMN+JuNBSyzju5t/MU/9W7UYVOj3eREQOSgnK9NrifKTHtEGB1sHYaeY1al8DG3aiDx5jlECy9tJelWmR0+NtLk4DoBYAar7HOAyDg7HvwwQfzfQFCbSgPSDIEJYsaHeftARJgeLRMjkRzHl4uBmM5AM/msTpHZ7kWvxtVtpj48B7KqKbC3Nt5khuyU4yKmZxGrUtgM9rVS+l1JkgWi1H40nBXX5Ch4bw4Vr+FZ4dpNDBwugRHp8oU43wdRhkARDDEqVGTjixVpujcUEY2HUjSiQFoRtZrf5RRvT+uJ/dQjE5AMV21LoPNDDUvK4qjFlqWPOQN0txYqyGg8XIBp6OSpg4xWngxE0zvv//+zNvoCKCRwdlC26sIOk+yFEsLVAB1ssApGyzWw80feo7ai8SJshFfmElfyRba0pE2sajKyqdeWVPAtupphhlmyN4giKETf3kyb1Xz5TXUBW9VQ8HnQOexNK1ob2irV/DmogHf9XhYgUqnARg10cCuMa1VNLocd6Mn3o7udJTPKANvW90EfImKUcOr3VvyJOCTfdQSOmuGNQVsZu5PEIolC/gNIIao4Q7U8CwAmIHHp4InHjZUFZkADaTixK3PMYlsSo6SkFBFjVyqXSxuSXTUNKT5Ojaeyxk8F+A61j51HHwv5bekDNBGhPc3IqvMnndmTQObmfzUAIBRG2QSOkEthq6h7Zxzzjknd4CGOo738SeaoD7coygD64tWL7zwwl/m/ooTvajEPXSqpEpGCDT0AGRBUAlB/UWQlm26hsxznmxR53OCrq5JKVpTwWYohAKRGeJsssnwDMBxtkSINwGEl7pGEoQfyUbDXUMlKQwfd7YuMDhXJ3g+1UObUx/egeoRQAFtkwnia/qfSpLAoCqOwCmMgirr+MpY08Fmkgoyy/IHMoyMw9t4mha20dbKobStYAcYgdC1RgYPp6dREcnnehsAKANAkZboxboS3q5EAGidiJMjywwFpNqnMyzFcP5LL72UC1XeQ+3dpIP3llnq4GZbS8BmKEQD6VUNFywFJjqc96pJA42H4XrnklwAoWtVBOlj+20xgxJbcK57RHZaPBfAxRkYVBI0AVydQD35jqfVYpxngqPRhT6dWcvAZrxHo8guBSUBEJXwHA0V5W2GMTXiWFEPk2yyO/wZ+4IOfI5JCiOAR0tOqI441xaLIakTiY33sY+c0yECrWvsazZt1FtLwQ778ssvsxRUx4jkIxaj41bKgXwrgmQLJeB6NCPg8do4zrslTUZGlHVNpxXvYXN/ejy+U0YoTWzA9S+++GK+ttXWFrDDlCY1FEj+og1gFenCFt91SgxpgBgpyrS0tprMe++9l5MTCYcOYUZM8V7FTWcZJf66t9ygPmttpbUFbMUbpVf6GZVQHzJI0T/qyGbPI7HRETE7L7koa4KaVByYnuV6I0rg8xwZpzyA7CQ5dbRzUFc7QG852PQvPuRRhi1+jgUxlrSRiOrejBdHh6AV5/ByU19M5U2tQ+ousxNoQ/Lx7iK3u644Rea+lgUrw0rPnYPWlBN0vOdVWW/SiLUUbJkcjqZAFHyAbm6SGpBsqBNLuVXr/EUTPuPyIjfbXIubeS7JJxHhrY4BLACMvzbZq2QlJjqMJB1LEooBgqYfZlFMnMA5fuDUKmsp2H4+gQ4MUyCE0pAwmHMUuAxx0lBd24SEWjZdDXRaW/JjJASA7ken89yiJ8dG+QiGqMq96XxaXuXQfd2PylGnMXIEShtFQmv73CprGdgCF9lGUeBSDVEN5EkySMNWdidbk4wAiAxT45BGUysSFwACnu4GPqB1DKBMMDuOgwNsYMoGBUrm+fZb5uC5gqIRJVs10cv71UDoe9JQJ6rFt8JaBragiKNRQoDE61TaeJXCj2wREOQa0M1lyuBU+QQwlTx0oaMAKHnh5TJMaiJKtwByTOHJdJnJBKrFyHJcRynX+qxTdZ5yAC92Lf73bopWvnflf4r8nbUMbFJM4qD8aohSBTwXiJIPQ5sa0Am8kU52zPAXICPwMZU6BaMoUjk/5gp5uIRGXIgfICkehQTUuVJywOogPO+Hs0aYTuYQ0XlXXnllnp2PenqzrWVgKxzxYEGIngYU79FoEoy3ogpDmdwDPh2uhCqzUyziqdb5KV4xQQ2Agq79PvN0HcqLlQgE4ijnigViQMx/4m2zOopfOsh3Xq+jXCNQoqRIkJptLQ2QpBbeJdfUH8xg09T4U5D0XcoNjJiqQh0kofOk5vhZGo17eTRaUlcRXN3T6DH5gH4AahN8Te4KkO6h7qHjPcd3isSzyU73Uunj6Uq9VFKrrKVgS1SARXLRskAAMu+WpusMwxe9oBMe7jzeiXN5r+ApiBkV5h/JRsFXB+Bm1wIYJSlKKfwbHWouUVwykngt6WiE6VR/eTl6i3jib0yrtcJaCjaTgGiUeUqVN6DgY38BTQ5qpGBnFOBQABnWJlzVtHmcTfFflhnGc10j2ALefVECegovJw/dG7dTP56HPsxXKvPS7LGqFaW00loONkMJUQji0QKkjA53CmA+49AiSMWNRncclxfnAwVhnk6JALOja6kLnSlu8HBylJejo7jGOermxYWdrbC2gM3Us2lcAZHiUMfWUAEObwMBJQAkkg7pdIBm2Eu//SyjaEaOa+I8HYN2/JUVuq8OxfHuSxkB3v3tw+ON/L+nRqxtYIcp+OBw0g34UXACJi6npwU8qT7uDhApCzRU/6NSaT7QIr0n3VCKICvpMVp0pgBMaYgTVA2Fo2rYTms72PUWlTpBC5/iUMbbitSAe0k+ywsESCbb1HloIM6zWbqGEmSCOFxQFjeol95pvR1sU2UAEujiv4mZ+Y5lZvVA+i4DJNHIvlgiHJsOkrgoB0Ta7b46QECMjuqVGTmt4u6WgC1wWZqAEoCi0E8GFtd2MJqa+sDbsc7PrwrwqX0CWxHEjlZRdbShFAkRyqBYWFCSffU/LZEU0dyoCvUI3PFr3mZa08FWkyaxyDbcSQ+rR8sYNVSmJx228jTAiQAlc9M5PNCvuATRYvCjSAQ3tIPjqRjavF6J0PYAFROolfhFmPq34wKlRMsEsOPOJwXJTFwvE3XP4n9paIY1HWyeqUHAtcJIUAOsxTmK8zyevjasSUD1CMNdg8lDGph3yfJ4tmUQQCcZi4DyfIAE0NJ9iYnPkh+dSjujE7GAp1v2YHmF/Z6j+KXWbZrNwhxZKM2O391HYaqZ1nSwRXiZm9TaGg0VNOvoTItZ50dlyA6LywWiDKoKaNmXYxbt8HLyTbJhWLuHIhUJqCPIPkNe6o2nebz76ODi2r8o1SqrhgFemq6zOYbn4WpUZyrO+VX/B1Vn1nSwTV3xMJJOA3g1byb31JHJu+IPiZxvzZ5zDPui0ctFiuCNNLNOk0nyXiolPBGloJ3iz+ZUAHWMBTn4u/hPBLyTEaXTzN6Y8fF+ISOtZG2mNR1sMyMCI16kly2eJM80VKlTvQM36ghJi+qev4r3kh3eJQESrOhj3o1uAvBebTrB85zvWgBa7CP44Wq6ngQEKhqJSQv/yQxVmQ5TElAbQWPKrt63mdZ0sJllYmofPXr0yJ7N01AFAEwQaLjEgsYuJi4CK10MeJmdjBJfk3uoSYWuXgoKmICJGjnQdZ4qnrig02P6TIIDQA6hQ2MeUgehKs/zbFkn7m62tQRslTeN4yGmosy2xGKYWCDJoyQZFArA0IUOMpR1jEbHsjTej8/VM3wvSkAKBdjUhc7SmRQGHrb6CZAyzLiG1FQdLGaieBqVqRbicsc9u9nWErD9YDR+mdWR+W9oMkZ0w1tjRhwQPCo8UcBzHJgCIw4HnnPwP1VDwahROyaAKijpQF6Ov/2lTmKe0j15vqJW/Mip3oAfCVYzrSVgd2a8T5aIowEAbIEJcCQdMK37M0HsNy2muARQEwKogapQ/QO4GjkPBrx7UR72S1I8B+BGjVHGY4Hup36koP982U7rLWCTbgCjpQFE51IW9qEQHuocNXCJERNUjQh0YMkvWlIBdH0kL/76Tgkpu9LNYoL5S8CKGY6jJGVftNFO6y1gy+goBEFMDcRwlrnhSRwvCPJkaf9dd93Vc5mBiV+ZowAnK6XXozZidKAlgS6koOAoWcHfDNWgGUqoV/8NopXWW8AuGtDUuKkOiZDhHz/zQzNoA+fS42bfBUkZp1816IzQxIBFQYAm8WSvqIL8E2ABrgN7p/V2sJnaiElgupdnUgr0Lh73S1vA8no0IEAaBfbT7AIgPga0+oZrFLKYWje6sGYkfljVO62PALtoqIL+pYN5LM5FG4In4/k4m/FaQVTAU+tm5J/r8LRUn8TsU6yPA1t6zUMNeXyLq61QlazIRo2CWJ0qAEpSjAJaGsACpR+vigf0fp9kfRzY9aZEi3uVO3E0U8+QmcoymaVuaAj4lp/1qdbHg92RWT6GKjr6d0h9sv0jwSYdZZb/NPtHgv1PtW6w22jdYLfRusFuo3WD3UbrBruN1g122yyl/wF4NrXmtdUj0wAAAABJRU5ErkJggg==" SizeF="79.1666641,76.33331" LocationFloat="0, 110.666679" />
+        <Item6 Ref="41" ControlType="XRLabel" Name="label11" Multiline="true" Text="ส่วนราชการ&#xD;&#xA;" TextAlignment="BottomLeft" SizeF="84.04175,27" LocationFloat="0, 186.999969" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="42" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="43" ControlType="XRLabel" Name="label12" Multiline="true" Text="วันที่&#xD;&#xA;" SizeF="37.0827637,27" LocationFloat="359.49942, 213.999969" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="44" UseFont="false" />
+        </Item7>
+        <Item8 Ref="45" ControlType="XRLabel" Name="label16" Multiline="true" Text="ที่ อว" TextAlignment="TopLeft" SizeF="44.4133759,26.9999847" LocationFloat="0, 213.999969" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="46" UseFont="false" UseTextAlignment="false" />
+        </Item8>
+        <Item9 Ref="47" ControlType="XRLabel" Name="label18" Multiline="true" Text="label23" SizeF="305.2095,27" LocationFloat="396.582275, 213.999969" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <ExpressionBindings>
+            <Item1 Ref="48" EventName="BeforePrint" PropertyName="Text" Expression="[day]" />
+          </ExpressionBindings>
+          <StylePriority Ref="49" UseFont="false" UseBorders="false" UseBorderDashStyle="false" />
+        </Item9>
+        <Item10 Ref="50" ControlType="XRLabel" Name="label21" Multiline="true" Text="เรื่อง" TextAlignment="BottomLeft" SizeF="44.4133759,27.0000153" LocationFloat="0, 241.000015" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Solid">
+          <StylePriority Ref="51" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item10>
+        <Item11 Ref="52" ControlType="XRLabel" Name="label37" Multiline="true" SizeF="622.9581,27" LocationFloat="78.83333, 186.999969" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="53" UseFont="false" UseBorders="false" UseBorderDashStyle="false" />
+        </Item11>
+        <Item12 Ref="54" ControlType="XRLabel" Name="label38" Multiline="true" SizeF="315.086273,27" LocationFloat="44.4133759, 213.999969" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="55" UseFont="false" UseBorders="false" UseBorderDashStyle="false" />
+        </Item12>
+        <Item13 Ref="56" ControlType="XRLabel" Name="label40" Multiline="true" Text="บันทึกข้อความ" TextAlignment="MiddleCenter" SizeF="571.6659,76.33331" LocationFloat="73.95827, 110.666679" Font="TH Sarabun New, 28pt, style=Bold" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Solid">
+          <StylePriority Ref="57" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item13>
+        <Item14 Ref="58" ControlType="XRLabel" Name="label32" Multiline="true" Text="แบบฟอรม์ " SizeF="72.3747559,23" LocationFloat="503.582672, 10" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="59" UseFont="false" />
+        </Item14>
+        <Item15 Ref="60" ControlType="XRLabel" Name="label33" Multiline="true" Text="สำหรับเจ้าหน้าที่ NUIBC No" SizeF="174.166641,27" LocationFloat="401.790741, 33.0000038" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="61" UseFont="false" />
+        </Item15>
+        <Item16 Ref="62" ControlType="XRLabel" Name="label34" Multiline="true" Text="วันที่" SizeF="35.83333,27" LocationFloat="540.1241, 56.00001" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="63" UseFont="false" />
+        </Item16>
+        <Item17 Ref="64" ControlType="XRLabel" Name="label35" Multiline="true" SizeF="121.042542,22.9999924" LocationFloat="575.957458, 33.0000038" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="65" UseFont="false" UseBorders="false" UseBorderDashStyle="false" />
+        </Item17>
+        <Item18 Ref="66" ControlType="XRLabel" Name="label36" Multiline="true" SizeF="121.042542,27.0000038" LocationFloat="575.957458, 56.00001" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="67" UseFont="false" UseBorders="false" UseBorderDashStyle="false" />
+        </Item18>
+        <Item19 Ref="68" ControlType="XRLabel" Name="label31" Multiline="true" TextAlignment="MiddleCenter" SizeF="311.750641,103.874992" LocationFloat="389.290741, 6.791687" Font="TH Sarabun New, 16pt, style=Bold" Padding="2,2,0,0,100" Borders="All" BorderDashStyle="Solid">
+          <StylePriority Ref="69" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item19>
+      </Controls>
+    </Item4>
+    <Item5 Ref="70" ControlType="ReportFooterBand" Name="ReportFooter" HeightF="963.1649">
+      <Controls>
+        <Item1 Ref="71" ControlType="XRRichText" Name="richText4" SerializableRtfString="ewBcAHIAdABmADEAXABkAGUAZgBmADAAewBcAGYAbwBuAHQAdABiAGwAewBcAGYAMAAgAEMAYQBsAGkAYgByAGkAOwB9AHsAXABmADEAIABUAGkAbQBlAHMAIABOAGUAdwAgAFIAbwBtAGEAbgA7AH0AewBcAGYAMgAgAFQASAAgAFMAYQByAGEAYgB1AG4AIABOAGUAdwA7AH0AfQB7AFwAYwBvAGwAbwByAHQAYgBsACAAOwBcAHIAZQBkADAAXABnAHIAZQBlAG4AMABcAGIAbAB1AGUAMAAgADsAXAByAGUAZAAwAFwAZwByAGUAZQBuADAAXABiAGwAdQBlADIANQA1ACAAOwB9AHsAXAAqAFwAZABlAGYAYwBoAHAAIABcAGYAMQBcAGYAcwAyADQAfQB7AFwAcwB0AHkAbABlAHMAaABlAGUAdAAgAHsAXABxAGwAXABmADEAXABmAHMAMgA0ACAATgBvAHIAbQBhAGwAOwB9AHsAXAAqAFwAYwBzADEAXABmADEAXABmAHMAMgA0AFwAYwBmADEAIABEAGUAZgBhAHUAbAB0ACAAUABhAHIAYQBnAHIAYQBwAGgAIABGAG8AbgB0ADsAfQB7AFwAKgBcAGMAcwAyAFwAcwBiAGEAcwBlAGQAbwBuADEAXABmADEAXABmAHMAMgA0AFwAYwBmADEAIABMAGkAbgBlACAATgB1AG0AYgBlAHIAOwB9AHsAXAAqAFwAYwBzADMAXABmADEAXABmAHMAMgA0AFwAdQBsAFwAYwBmADIAIABIAHkAcABlAHIAbABpAG4AawA7AH0AewBcACoAXAB0AHMANABcAHQAcwByAG8AdwBkAFwAZgAxAFwAZgBzADIANABcAHEAbABcAHQAcwBjAGUAbABsAHAAYQBkAGQAZgBsADMAXAB0AHMAYwBlAGwAbABwAGEAZABkAGwAMQAwADgAXAB0AHMAYwBlAGwAbABwAGEAZABkAGYAYgAzAFwAdABzAGMAZQBsAGwAcABhAGQAZABmAHIAMwBcAHQAcwBjAGUAbABsAHAAYQBkAGQAcgAxADAAOABcAHQAcwBjAGUAbABsAHAAYQBkAGQAZgB0ADMAXAB0AHMAdgBlAHIAdABhAGwAdABcAGMAbAB0AHgAbAByAHQAYgAgAE4AbwByAG0AYQBsACAAVABhAGIAbABlADsAfQB7AFwAKgBcAHQAcwA1AFwAdABzAHIAbwB3AGQAXABzAGIAYQBzAGUAZABvAG4ANABcAGYAMQBcAGYAcwAyADQAXABxAGwAXAB0AHIAYgByAGQAcgB0AFwAYgByAGQAcgBzAFwAYgByAGQAcgB3ADEAMABcAHQAcgBiAHIAZAByAGwAXABiAHIAZAByAHMAXABiAHIAZAByAHcAMQAwAFwAdAByAGIAcgBkAHIAYgBcAGIAcgBkAHIAcwBcAGIAcgBkAHIAdwAxADAAXAB0AHIAYgByAGQAcgByAFwAYgByAGQAcgBzAFwAYgByAGQAcgB3ADEAMABcAHQAcgBiAHIAZAByAGgAXABiAHIAZAByAHMAXABiAHIAZAByAHcAMQAwAFwAdAByAGIAcgBkAHIAdgBcAGIAcgBkAHIAcwBcAGIAcgBkAHIAdwAxADAAXAB0AHMAYwBlAGwAbABwAGEAZABkAGYAbAAzAFwAdABzAGMAZQBsAGwAcABhAGQAZABsADEAMAA4AFwAdABzAGMAZQBsAGwAcABhAGQAZABmAHIAMwBcAHQAcwBjAGUAbABsAHAAYQBkAGQAcgAxADAAOABcAHQAcwB2AGUAcgB0AGEAbAB0AFwAYwBsAHQAeABsAHIAdABiACAAVABhAGIAbABlACAAUwBpAG0AcABsAGUAIAAxADsAfQB9AHsAXAAqAFwAbABpAHMAdABvAHYAZQByAHIAaQBkAGUAdABhAGIAbABlAH0AXABuAG8AdQBpAGMAbwBtAHAAYQB0AFwAcwBwAGwAeQB0AHcAbgBpAG4AZQBcAGgAdABtAGEAdQB0AHMAcABcAGEAbABuAHQAYgBsAGkAbgBkAFwAZQB4AHAAcwBoAHIAdABuAFwAcwBwAGwAdABwAGcAcABhAHIAXABuAG8AZwByAG8AdwBhAHUAdABvAGYAaQB0AFwAcABhAHIAZABcAHAAbABhAGkAbgBcAHEAbAB7AFwAbABhAG4AZwAxADAANQA0AFwAbABhAG4AZwBmAGUAMQAwADUANABcAGYAMgBcAGYAcwAzADIAXABjAGYAMQAgAFwAdQAzADYANAA4AFwAJwAzAGYAXAB1ADMANgAyADkAXAAnADMAZgBcAHUAMwA1ADgANQBcACcAMwBmAFwAdQAzADYAMgA2AFwAJwAzAGYAXAB1ADMANgAzADQAXAAnADMAZgBcAHUAMwA2ADEAOQBcACcAMwBmAFwAdQAzADYAMgA5AFwAJwAzAGYAXAB1ADMANgAzADkAXAAnADMAZgBcAHUAMwA2ADUANgBcACcAMwBmAFwAdQAzADYAMAA5AFwAJwAzAGYAXAB1ADMANgA1ADQAXAAnADMAZgAgAFwAdQAzADYAMQA5AFwAJwAzAGYAXAB1ADMANgAzADIAXAAnADMAZgBcAHUAMwA2ADEAMABcACcAMwBmAFwAdQAzADYANAAwAFwAJwAzAGYAIAB9AHsAXABsAGEAbgBnADEAMAAzADMAXABsAGEAbgBnAGYAZQAxADAAMwAzAFwAZgAyAFwAZgBzADMAMgBcAGMAZgAxACAAKAB9AHsAXABsAGEAbgBnADEAMAA1ADQAXABsAGEAbgBnAGYAZQAxADAANQA0AFwAZgAyAFwAZgBzADMAMgBcAGMAZgAxACAAXAB1ADMANgA0ADgAXAAnADMAZgBcAHUAMwA1ADkANABcACcAMwBmAFwAdQAzADYANQA2AFwAJwAzAGYAXAB1ADMANgAwADkAXAAnADMAZgAgAH0AewBcAGwAYQBuAGcAMQAwADUANABcAGwAYQBuAGcAZgBlADEAMAA1ADQAXABmADIAXABmAHMAMwAyAFwAdQBsAFwAYwBmADEAIABcAHUAMwA2ADQAOABcACcAMwBmAFwAdQAzADYAMgA5AFwAJwAzAGYAXAB1ADMANQA4ADUAXAAnADMAZgBcAHUAMwA2ADIANgBcACcAMwBmAFwAdQAzADYAMwA0AFwAJwAzAGYAXAB1ADMANgAxADkAXAAnADMAZgBcAHUAMwA1ADkANABcACcAMwBmAFwAdQAzADYAMwA3AFwAJwAzAGYAXAB1ADMANgA1ADcAXAAnADMAZgBcAHUAMwA2ADQAOQBcACcAMwBmAFwAdQAzADUAOQAyAFwAJwAzAGYAXAB1ADMANQA5ADEAXAAnADMAZgBcAHUAMwA2ADEAOQBcACcAMwBmAFwAdQAzADYAMwA0AFwAJwAzAGYAXAB1ADMANgAxADgAXAAnADMAZgBcAHUAMwA2ADIAMQBcACcAMwBmAFwAdQAzADYAMwAyAFwAJwAzAGYAXAB1ADMANgA0ADgAXAAnADMAZgBcAHUAMwA2ADIAOQBcACcAMwBmAFwAdQAzADYAMwA3AFwAJwAzAGYAXAB1ADMANgAxADgAXAAnADMAZgBcAHUAMwA2ADAANABcACcAMwBmAFwAdQAzADUAOAA2AFwAJwAzAGYAXAB1ADMANgAyADkAXAAnADMAZgBcAHUAMwA1ADkAMQBcACcAMwBmAFwAdQAzADYANAA4AFwAJwAzAGYAXAB1ADMANQA5ADQAXAAnADMAZgBcAHUAMwA2ADMAOQBcACcAMwBmAFwAdQAzADYANQA3AFwAJwAzAGYAXAB1ADMANgAyADkAXAAnADMAZgBcAHUAMwA2ADAANwBcACcAMwBmAFwAdQAzADYAMwA3AFwAJwAzAGYAXAB1ADMANgA1ADYAXAAnADMAZgBcAHUAMwA2ADUAMQBcACcAMwBmAFwAdQAzADUAOQA0AFwAJwAzAGYAXAB1ADMANgA1ADcAXAAnADMAZgBcAHUAMwA2ADUAMQBcACcAMwBmAFwAdQAzADYAMAA5AFwAJwAzAGYAXAB1ADMANQA5ADEAXAAnADMAZgBcAHUAMwA2ADMANABcACcAMwBmAFwAdQAzADYAMAA5AFwAJwAzAGYAXAB1ADMANgAyADMAXAAnADMAZgBcAHUAMwA2ADMANgBcACcAMwBmAFwAdQAzADUAOQAyAFwAJwAzAGYAXAB1ADMANgAzADMAXAAnADMAZgBcAHUAMwA2ADEAOABcACcAMwBmAH0AewBcAGwAYQBuAGcAMQAwADMAMwBcAGwAYQBuAGcAZgBlADEAMAAzADMAXABmADIAXABmAHMAMwAyAFwAYwBmADEAIAAvAH0AewBcAGwAYQBuAGcAMQAwADUANABcAGwAYQBuAGcAZgBlADEAMAA1ADQAXABmADIAXABmAHMAMwAyAFwAYwBmADEAIABcAHUAMwA2ADIANwBcACcAMwBmAFwAdQAzADYAMAA5AFwAJwAzAGYAXAB1ADMANgAzADMAXAAnADMAZgBcAHUAMwA1ADkAMQBcACcAMwBmAFwAdQAzADYAMgA2AFwAJwAzAGYAXAB1ADMANgAzADkAXAAnADMAZgBcAHUAMwA2ADIAOQBcACcAMwBmAFwAdQAzADYAMQA5AFwAJwAzAGYAXAB1ADMANgAzADMAXAAnADMAZgBcAHUAMwA2ADEAMABcACcAMwBmAFwAdQAzADYAMQA5AFwAJwAzAGYAXAB1ADMANgAyADkAXAAnADMAZgBcAHUAMwA1ADkAMQBcACcAMwBmAFwAdQAzADYANAA5AFwAJwAzAGYAXAB1ADMANgAyADEAXAAnADMAZgBcAHUAMwA2ADMAMgBcACcAMwBmAFwAdQAzADYAMgA5AFwAJwAzAGYAXAB1ADMANgAwADkAXAAnADMAZgBcAHUAMwA2ADQAMABcACcAMwBmAFwAdQAzADYAMQA3AFwAJwAzAGYAXAB1ADMANgAzADMAXAAnADMAZgBcAHUAMwA2ADAANQBcACcAMwBmAFwAdQAzADYAMwA2AFwAJwAzAGYAXAB1ADMANgA1ADEAXAAnADMAZgBcAHUAMwA2ADIANwBcACcAMwBmAFwAdQAzADYANQA3AFwAJwAzAGYAXAB1ADMANgA1ADEAXAAnADMAZgBcAHUAMwA1ADkANABcACcAMwBmAFwAdQAzADYANQA3AFwAJwAzAGYAXAB1ADMANgAyADYAXAAnADMAZgBcAHUAMwA2ADAANgBcACcAMwBmAFwAdQAzADYAMwA0AFwAJwAzAGYAXAB1ADMANgAwADkAXAAnADMAZgBcAHUAMwA2ADAANwBcACcAMwBmAFwAdQAzADYAMwA3AFwAJwAzAGYAXAB1ADMANgA1ADYAXAAnADMAZgB9AHsAXABsAGEAbgBnADEAMAAzADMAXABsAGEAbgBnAGYAZQAxADAAMwAzAFwAZgAyAFwAZgBzADMAMgBcAGMAZgAxACAALwB9AFwAbABhAG4AZwAxADAANQA0AFwAbABhAG4AZwBmAGUAMQAwADUANABcAGYAMgBcAGYAcwAzADIAXABjAGYAMQBcAHAAYQByAFwAcABhAHIAZABcAHAAbABhAGkAbgBcAHEAbAB7AFwAbABhAG4AZwAxADAANQA0AFwAbABhAG4AZwBmAGUAMQAwADUANABcAGYAMgBcAGYAcwAzADIAXABjAGYAMQAgAFwAdQAzADYAMgA3AFwAJwAzAGYAXAB1ADMANgAwADkAXAAnADMAZgBcAHUAMwA2ADUANgBcACcAMwBmAFwAdQAzADYAMgAzAFwAJwAzAGYAXAB1ADMANgAxADgAXAAnADMAZgBcAHUAMwA1ADkAMQBcACcAMwBmAFwAdQAzADYAMwA0AFwAJwAzAGYAXAB1ADMANgAwADkAXAAnADMAZgBcAHUAMwA2ADUAMQBcACcAMwBmAFwAdQAzADYAMAA5AFwAJwAzAGYAXAB1ADMANQA4ADUAXAAnADMAZgBcAHUAMwA2ADMANABcACcAMwBmAFwAdQAzADYAMQA5AFwAJwAzAGYAXAB1ADMANgAwADQAXAAnADMAZgBcAHUAMwA2ADMANQBcACcAMwBmAFwAdQAzADYANAA4AFwAJwAzAGYAXAB1ADMANgAwADkAXAAnADMAZgBcAHUAMwA2ADMANgBcACcAMwBmAFwAdQAzADYAMAA5AFwAJwAzAGYAXAB1ADMANQA4ADUAXAAnADMAZgBcAHUAMwA2ADMANABcACcAMwBmAFwAdQAzADYAMQA5AFwAJwAzAGYAXAB1ADMANgAyADMAXAAnADMAZgBcAHUAMwA2ADMANgBcACcAMwBmAFwAdQAzADUAOQAyAFwAJwAzAGYAXAB1ADMANgAzADMAXAAnADMAZgBcAHUAMwA2ADEAOABcACcAMwBmAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgBcAHUAMwA2ADQAOABcACcAMwBmAFwAdQAzADYAMQAxAFwAJwAzAGYAXAB1ADMANgA1ADUAXAAnADMAZgBcAHUAMwA2ADAAOQBcACcAMwBmAFwAdQAzADYAMAA1AFwAJwAzAGYAXAB1ADMANgA1ADcAXAAnADMAZgBcAHUAMwA2ADAAOQBcACcAMwBmACkAfQBcAGwAYQBuAGcAMQAwADUANABcAGwAYQBuAGcAZgBlADEAMAA1ADQAXABmADIAXABmAHMAMwAyAFwAYwBmADEAXABwAGEAcgB9AA==" SizeF="640.988159,29.9998474" LocationFloat="62.38346, 90.00015" Font="Arial, 9.75pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="72" UseFont="false" />
+        </Item1>
+        <Item2 Ref="73" ControlType="XRLabel" Name="label74" Multiline="true" Text="แผ่นบรรจุข้อมูลแบบเสนอเพื่อขอรับรองฯ โครงการวิจัย และเอกสารอื่นๆ ที่เกี่ยวข้อง (CD หรือ DVD) ในรูปแบบpdf ไฟล์ จำนวน 1 ชุด" TextAlignment="MiddleLeft" SizeF="640.988037,30" LocationFloat="61.59051, 120" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="74" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="75" ControlType="XRLabel" Name="label75" Multiline="true" Text="5)" TextAlignment="MiddleRight" SizeF="60.4166679,30" LocationFloat="0, 120.000122" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="76" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="77" ControlType="XRLabel" Name="label44" Multiline="true" Text="เอกสารหนังสือรับรองที่ผ่านการพิจารณาจากหน่วยงานที่กำกับดูแลโดยตรง (เช่น กรมวิชาการเกษตร)&#xD;&#xA;" TextAlignment="MiddleLeft" SizeF="640.988037,30" LocationFloat="62.38346, 60.00003" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="78" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="79" ControlType="XRLabel" Name="label53" Multiline="true" Text="3)" TextAlignment="MiddleRight" SizeF="60.4166679,30" LocationFloat="0, 60.00003" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="80" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="81" ControlType="XRLabel" Name="label72" Multiline="true" Text="4)" TextAlignment="MiddleRight" SizeF="60.4166679,30" LocationFloat="0, 90.00009" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="82" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="83" ControlType="XRLabel" Name="label27" Multiline="true" Text="โครงการวิจัยฉบับสมบูรณ์ (ฉบับภาษาไทย) (Full Research Proposal/Protocol) จำนวน 3 ชุด" TextAlignment="MiddleLeft" SizeF="640.9875,30" LocationFloat="62.38346, 30.00003" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="84" UseFont="false" UseTextAlignment="false" />
+        </Item7>
+        <Item8 Ref="85" ControlType="XRLabel" Name="label28" Multiline="true" Text="2)" TextAlignment="MiddleRight" SizeF="60.4166679,30" LocationFloat="0, 30.00003" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="86" UseFont="false" UseTextAlignment="false" />
+        </Item8>
+        <Item9 Ref="87" ControlType="XRLabel" Name="label24" Multiline="true" Text="1)" TextAlignment="MiddleRight" SizeF="60.4166679,30" LocationFloat="0, 0" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="88" UseFont="false" UseTextAlignment="false" />
+        </Item9>
+        <Item10 Ref="89" ControlType="XRLabel" Name="label20" Multiline="true" Text="แบบเสนอเพื่อขอรับการพิจารณารับรองด้านความปลอดภัยทางชีวภาพ ระดับห้องปฏิบัติการ (NUIBC01-2) จำนวน 3 ชุด" TextAlignment="MiddleLeft" SizeF="640.988037,30" LocationFloat="62.38346, 0" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="90" UseFont="false" UseTextAlignment="false" />
+        </Item10>
+        <Item11 Ref="91" ControlType="XRLabel" Name="label13" Multiline="true" Text="จึงเรียนมาเพื่อโปรดพิจารณา&#xD;&#xA;" SizeF="256.456757,23" LocationFloat="61.59051, 169.791672" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="92" UseFont="false" />
+        </Item11>
+        <Item12 Ref="93" ControlType="XRLabel" Name="label66" Multiline="true" Text="ผู้ร่วมวิจัย" TextAlignment="TopCenter" SizeF="233.207184,25.1665039" LocationFloat="435.4082, 840.082" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="94" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item12>
+        <Item13 Ref="95" ControlType="XRLabel" Name="label67" Multiline="true" Text=")" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="667.822449, 814.915344" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="96" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item13>
+        <Item14 Ref="97" ControlType="XRLabel" Name="label68" Multiline="true" Text="(" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="422.160522, 814.915649" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="98" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item14>
+        <Item15 Ref="99" ControlType="XRLabel" Name="label70" Multiline="true" TextAlignment="TopLeft" SizeF="232.414246,25.1665039" LocationFloat="435.4082, 789.748962" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="100" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item15>
+        <Item16 Ref="101" ControlType="XRLabel" Name="label71" Multiline="true" Text="ลงนาม&#xD;&#xA;" TextAlignment="TopLeft" SizeF="45.0415344,25.1665039" LocationFloat="390.3666, 789.748962" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="102" UseFont="false" UseTextAlignment="false" />
+        </Item16>
+        <Item17 Ref="103" ControlType="XRLabel" Name="label60" Multiline="true" Text="ผู้ร่วมวิจัย" TextAlignment="TopCenter" SizeF="233.207184,25.1665039" LocationFloat="435.4082, 747.082336" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="104" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item17>
+        <Item18 Ref="105" ControlType="XRLabel" Name="label61" Multiline="true" Text=")" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="667.822449, 721.9156" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="106" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item18>
+        <Item19 Ref="107" ControlType="XRLabel" Name="label62" Multiline="true" Text="(" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="422.160522, 721.9158" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="108" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item19>
+        <Item20 Ref="109" ControlType="XRLabel" Name="label64" Multiline="true" TextAlignment="TopLeft" SizeF="232.414246,25.1665039" LocationFloat="435.4082, 696.7493" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="110" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item20>
+        <Item21 Ref="111" ControlType="XRLabel" Name="label65" Multiline="true" Text="ลงนาม&#xD;&#xA;" TextAlignment="TopLeft" SizeF="45.0415344,25.1665039" LocationFloat="390.3666, 696.7493" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="112" UseFont="false" UseTextAlignment="false" />
+        </Item21>
+        <Item22 Ref="113" ControlType="XRLabel" Name="label26" Multiline="true" Text="ลงนาม&#xD;&#xA;" TextAlignment="TopLeft" SizeF="45.0415344,25.1665039" LocationFloat="390.9537, 583.207764" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="114" UseFont="false" UseTextAlignment="false" />
+        </Item22>
+        <Item23 Ref="115" ControlType="XRLabel" Name="label55" Multiline="true" TextAlignment="TopLeft" SizeF="232.414246,25.1665039" LocationFloat="435.995239, 583.207764" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="116" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item23>
+        <Item24 Ref="117" ControlType="XRLabel" Name="label57" Multiline="true" Text="(" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="422.747559, 608.3743" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="118" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item24>
+        <Item25 Ref="119" ControlType="XRLabel" Name="label58" Multiline="true" Text=")" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="668.4094, 608.374268" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="120" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item25>
+        <Item26 Ref="121" ControlType="XRLabel" Name="label59" Multiline="true" Text="หัวหน้าโครงการวิจัย" TextAlignment="TopCenter" SizeF="233.207184,25.1665039" LocationFloat="435.995239, 633.5408" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="122" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item26>
+        <Item27 Ref="123" ControlType="XRLabel" Name="label25" Multiline="true" Text="คณบดี/หัวหน้าหน่วยงาน" TextAlignment="TopCenter" SizeF="233.21,21" LocationFloat="61.59051, 932.165" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="124" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item27>
+        <Item28 Ref="125" ControlType="XRLabel" Name="label42" Multiline="true" Text=")" TextAlignment="TopLeft" SizeF="13.2475891,22" LocationFloat="294.004883, 910.164856" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="126" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item28>
+        <Item29 Ref="127" ControlType="XRLabel" Name="label46" Multiline="true" Text="(" TextAlignment="TopLeft" SizeF="13.2475739,22" LocationFloat="48.34296, 910.164856" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="128" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item29>
+        <Item30 Ref="129" ControlType="XRLabel" Name="label47" Multiline="true" TextAlignment="TopLeft" SizeF="233.21,22" LocationFloat="60.7975655, 910.164856" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="130" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item30>
+        <Item31 Ref="131" ControlType="XRLabel" Name="label48" Multiline="true" TextAlignment="TopLeft" SizeF="258.909363,25.1665039" LocationFloat="61.59051, 884.998535" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="132" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item31>
+        <Item32 Ref="133" ControlType="XRLabel" Name="label49" Multiline="true" Text="ลงนาม&#xD;&#xA;" TextAlignment="TopLeft" SizeF="45.0415344,25.1665039" LocationFloat="16.549015, 884.998535" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="134" UseFont="false" UseTextAlignment="false" />
+        </Item32>
+        <Item33 Ref="135" ControlType="XRLabel" Name="label51" Multiline="true" Text="ความเห็นคณบดี" TextAlignment="TopCenter" SizeF="305.33078,25.1665039" LocationFloat="15.1691751, 837.832336" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="136" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item33>
+        <Item34 Ref="137" ControlType="XRLabel" Name="label54" Multiline="true" TextAlignment="TopLeft" SizeF="305.33,22" LocationFloat="15.1691751, 862.998657" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="138" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item34>
+        <Item35 Ref="139" ControlType="XRLabel" Name="label45" Multiline="true" TextAlignment="TopLeft" SizeF="305.33,22" LocationFloat="15.1699705, 721.9159" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="140" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item35>
+        <Item36 Ref="141" ControlType="XRLabel" Name="label43" Multiline="true" Text="ความเห็นหัวหน้า" TextAlignment="TopCenter" SizeF="305.33078,25.1665039" LocationFloat="15.1699705, 696.7493" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="142" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item36>
+        <Item37 Ref="143" ControlType="XRLabel" Name="label3" Multiline="true" Text="ลงนาม&#xD;&#xA;" TextAlignment="TopLeft" SizeF="45.0415344,25.1665039" LocationFloat="16.54981, 743.916" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="144" UseFont="false" UseTextAlignment="false" />
+        </Item37>
+        <Item38 Ref="145" ControlType="XRLabel" Name="label17" Multiline="true" TextAlignment="TopLeft" SizeF="258.909363,25.1665039" LocationFloat="61.591404, 743.9158" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="146" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item38>
+        <Item39 Ref="147" ControlType="XRLabel" Name="label22" Multiline="true" TextAlignment="TopLeft" SizeF="233.21,22" LocationFloat="60.7984543, 769.0826" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="148" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item39>
+        <Item40 Ref="149" ControlType="XRLabel" Name="label29" Multiline="true" Text="(" TextAlignment="TopLeft" SizeF="13.2475777,22" LocationFloat="48.3437843, 769.0826" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="150" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item40>
+        <Item41 Ref="151" ControlType="XRLabel" Name="label30" Multiline="true" Text=")" TextAlignment="TopLeft" SizeF="13.2475891,22" LocationFloat="294.005646, 769.0826" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="152" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item41>
+        <Item42 Ref="153" ControlType="XRLabel" Name="label39" Multiline="true" Text="หัวหน้าภาควิชา/หัวหน้าแผนก" TextAlignment="TopCenter" SizeF="233.207184,25.1665039" LocationFloat="61.591404, 791.082458" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="154" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item42>
+        <Item43 Ref="155" ControlType="XRLabel" Name="label15" Multiline="true" Text="กรณีหัวหน้าโครงการวิจัยเป็นนิสิต" TextAlignment="TopCenter" SizeF="233.207184,25.1665039" LocationFloat="61.591404, 648.2907" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="156" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item43>
+        <Item44 Ref="157" ControlType="XRLabel" Name="label14" Multiline="true" Text="อาจารย์ที่ปรึกษาโครงการ" TextAlignment="TopCenter" SizeF="233.207184,25.1665039" LocationFloat="61.591404, 623.124146" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="158" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item44>
+        <Item45 Ref="159" ControlType="XRLabel" Name="label10" Multiline="true" Text=")" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="294.005646, 597.9577" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="160" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item45>
+        <Item46 Ref="161" ControlType="XRLabel" Name="label9" Multiline="true" Text="(" TextAlignment="TopLeft" SizeF="13.2475739,25.1665039" LocationFloat="48.34385, 597.9577" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="None" BorderDashStyle="Dash">
+          <StylePriority Ref="162" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item46>
+        <Item47 Ref="163" ControlType="XRLabel" Name="label8" Multiline="true" TextAlignment="TopLeft" SizeF="233.207184,25.1665039" LocationFloat="60.7984543, 597.9577" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="164" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item47>
+        <Item48 Ref="165" ControlType="XRLabel" Name="label7" Multiline="true" TextAlignment="TopLeft" SizeF="232.414246,25.1665039" LocationFloat="61.591404, 572.7911" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="166" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item48>
+        <Item49 Ref="167" ControlType="XRLabel" Name="label5" Multiline="true" Text="ลงนาม&#xD;&#xA;" TextAlignment="TopLeft" SizeF="45.0415344,25.1665039" LocationFloat="16.5498734, 572.7911" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <StylePriority Ref="168" UseFont="false" UseTextAlignment="false" />
+        </Item49>
+        <Item50 Ref="169" ControlType="XRLabel" Name="label1" Multiline="true" CanGrow="false" Text="label1" TextAlignment="TopCenter" SizeF="221.039825,22.999939" LocationFloat="435.4082, 814.9154" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="170" EventName="BeforePrint" PropertyName="Text" Expression="[co_research_fullname3]" />
+          </ExpressionBindings>
+          <StylePriority Ref="171" UseFont="false" UseTextAlignment="false" />
+        </Item50>
+        <Item51 Ref="172" ControlType="XRLabel" Name="label23" Multiline="true" CanGrow="false" Text="label23" TextAlignment="TopCenter" SizeF="221.039825,25.166626" LocationFloat="435.4082, 721.9158" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="173" EventName="BeforePrint" PropertyName="Text" Expression="[co_research_fullname2]" />
+          </ExpressionBindings>
+          <StylePriority Ref="174" UseFont="false" UseTextAlignment="false" />
+        </Item51>
+        <Item52 Ref="175" ControlType="XRLabel" Name="label19" Multiline="true" CanGrow="false" Text="label19" TextAlignment="TopCenter" SizeF="222.6257,25.166626" LocationFloat="435.202271, 608.3742" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100">
+          <ExpressionBindings>
+            <Item1 Ref="176" EventName="BeforePrint" PropertyName="Text" Expression="[HeadofResearch_fullname]" />
+          </ExpressionBindings>
+          <StylePriority Ref="177" UseFont="false" UseTextAlignment="false" />
+        </Item52>
+        <Item53 Ref="178" ControlType="XRLabel" Name="label56" Multiline="true" TextAlignment="TopLeft" SizeF="233.207184,25.1665039" LocationFloat="435.202271, 608.3743" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="179" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item53>
+        <Item54 Ref="180" ControlType="XRLabel" Name="label63" Multiline="true" TextAlignment="TopLeft" SizeF="233.207184,25.1665039" LocationFloat="434.615326, 721.9158" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="181" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item54>
+        <Item55 Ref="182" ControlType="XRLabel" Name="label69" Multiline="true" TextAlignment="TopLeft" SizeF="233.207184,25.1665039" LocationFloat="434.615326, 814.915649" Font="TH Sarabun New, 16pt" Padding="2,2,0,0,100" Borders="Bottom" BorderDashStyle="Dash">
+          <StylePriority Ref="183" UseFont="false" UseBorders="false" UseBorderDashStyle="false" UseTextAlignment="false" />
+        </Item55>
+      </Controls>
+    </Item5>
+  </Bands>
+  <ComponentStorage>
+    <Item1 Ref="0" ObjectType="DevExpress.DataAccess.ObjectBinding.ObjectDataSource,DevExpress.DataAccess.v19.2" Name="objectDataSource1" Base64="PE9iamVjdERhdGFTb3VyY2UgTmFtZT0ib2JqZWN0RGF0YVNvdXJjZTEiPjxEYXRhU291cmNlIFR5cGU9IlRIRC5Db3JlLkFwaS5Nb2RlbHMuUmVwb3J0TW9kZWxzLm1vZGVsX3JwdF8xX3JlcG9ydCwgVEhELkNvcmUuQXBpLk1vZGVscywgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwiIC8+PC9PYmplY3REYXRhU291cmNlPg==" />
+  </ComponentStorage>
+</XtraReportsLayoutSerializer>

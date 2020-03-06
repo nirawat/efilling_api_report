@@ -1,0 +1,8 @@
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\bin\Release\netstandard2.0\THD.Core.Api.Entities.deps.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\bin\Release\netstandard2.0\THD.Core.Api.Entities.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\bin\Release\netstandard2.0\THD.Core.Api.Entities.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\obj\Release\netstandard2.0\THD.Core.Api.Entities.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\obj\Release\netstandard2.0\THD.Core.Api.Entities.AssemblyInfo.cs
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\obj\Release\netstandard2.0\THD.Core.Api.Entities.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\obj\Release\netstandard2.0\THD.Core.Api.Entities.pdb
+C:\Work Project\GitHub\efilling\efilling_api\THD.Core.Api\THD.Core.Api.Entities\obj\Release\netstandard2.0\THD.Core.Api.Entities.csprojAssemblyReference.cache

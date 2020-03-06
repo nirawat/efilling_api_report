@@ -1,0 +1,128 @@
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.deps.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.dev.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csprojAssemblyReference.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cs
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfoInputs.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfo.cs
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorTargetAssemblyInfo.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csproj.CopyComplete
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\nlog.config
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\nlog.config
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.Development.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.deps.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.dev.json
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.pdb
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csprojAssemblyReference.cache
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cache
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cs
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfoInputs.cache
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfo.cs
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorTargetAssemblyInfo.cache
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csproj.CopyComplete
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+D:\SourceTree_Repository\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\nlog.config
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.deps.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.dev.json
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.pdb
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csprojAssemblyReference.cache
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cache
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cs
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfo.cs
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorTargetAssemblyInfo.cache
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csproj.CopyComplete
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\nlog.config
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\appsettings.json
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.deps.json
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.json
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.runtimeconfig.dev.json
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Private.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.Interface.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Business.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Helpers.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Models.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Entities.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\bin\Release\netcoreapp2.2\THD.Core.Api.Repository.Interface.pdb
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csprojAssemblyReference.cache
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cache
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorAssemblyInfo.cs
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.AssemblyInfo.cs
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.RazorTargetAssemblyInfo.cache
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.csproj.CopyComplete
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.dll
+C:\Work Project\GitHub\efilling\efilling_api_report\THD.Core.Api\THD.Core.Api.Private\obj\Release\netcoreapp2.2\THD.Core.Api.Private.pdb

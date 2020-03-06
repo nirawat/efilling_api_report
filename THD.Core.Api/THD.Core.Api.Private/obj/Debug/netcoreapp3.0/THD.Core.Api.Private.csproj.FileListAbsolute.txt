@@ -1,0 +1,5 @@
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Debug\netcoreapp3.0\THD.Core.Api.Private.csprojAssemblyReference.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Debug\netcoreapp3.0\THD.Core.Api.Private.MvcApplicationPartsAssemblyInfo.cs
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Debug\netcoreapp3.0\THD.Core.Api.Private.MvcApplicationPartsAssemblyInfo.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Debug\netcoreapp3.0\THD.Core.Api.Private.AssemblyInfoInputs.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Private\obj\Debug\netcoreapp3.0\THD.Core.Api.Private.AssemblyInfo.cs

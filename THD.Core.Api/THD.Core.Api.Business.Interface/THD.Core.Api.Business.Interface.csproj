@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IDocMenuAService.cs" />
+    <Compile Remove="IDocMenuBService.cs" />
+    <Compile Remove="IDocMenuCService.cs" />
+    <Compile Remove="IDocMenuDService.cs" />
+    <Compile Remove="IDocMenuEService.cs" />
+    <Compile Remove="IDocMenuFService.cs" />
+    <Compile Remove="IDocMenuHomeService.cs" />
+    <Compile Remove="IDocMenuRService.cs" />
+    <Compile Remove="IDropdownListService.cs" />
+    <Compile Remove="IMailTemplateService.cs" />
+    <Compile Remove="IRegisterUserService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\THD.Core.Api.Entities\THD.Core.Api.Entities.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Models\THD.Core.Api.Models.csproj" />
+  </ItemGroup>
+
+</Project>

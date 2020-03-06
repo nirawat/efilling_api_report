@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DocMenuAService.cs" />
+    <Compile Remove="DocMenuBService.cs" />
+    <Compile Remove="DocMenuCService.cs" />
+    <Compile Remove="DocMenuDService.cs" />
+    <Compile Remove="DocMenuEService.cs" />
+    <Compile Remove="DocMenuFService.cs" />
+    <Compile Remove="DocMenuHomeService.cs" />
+    <Compile Remove="DocMenuR1Service.cs" />
+    <Compile Remove="DrowpdownListService.cs" />
+    <Compile Remove="MailTemplateService.cs" />
+    <Compile Remove="RegisterUserService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\THD.Core.Api.Business.Interface\THD.Core.Api.Business.Interface.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Entities\THD.Core.Api.Entities.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Helpers\THD.Core.Api.Helpers.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Models\THD.Core.Api.Models.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Repository.Interface\THD.Core.Api.Repository.Interface.csproj" />
+    <ProjectReference Include="..\THD.Core.Api.Repository\THD.Core.Api.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

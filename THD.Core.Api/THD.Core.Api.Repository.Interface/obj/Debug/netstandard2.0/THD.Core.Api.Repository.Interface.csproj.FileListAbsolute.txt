@@ -1,0 +1,13 @@
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.deps.json
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Entities.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Models.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Entities.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\bin\Debug\netstandard2.0\THD.Core.Api.Models.pdb
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.csprojAssemblyReference.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.AssemblyInfoInputs.cache
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.AssemblyInfo.cs
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.csproj.CopyComplete
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.dll
+C:\Work Project\React Project\eFilling\EFilling.WebApi\THD.Core.Api\THD.Core.Api.Repository.Interface\obj\Debug\netstandard2.0\THD.Core.Api.Repository.Interface.pdb

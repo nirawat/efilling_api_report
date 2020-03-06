@@ -1,0 +1,124 @@
+2020/02/10 12:44:28.367    26   System.NullReferenceException: Object reference not set to an instance of an object.
+   at THD.Core.Api.Repository.DataHandler.DocMenuC3Repository.MenuC31EditInterfaceDataAsync(String UserId, String ProectNumber) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Repository\DataHandler\DocMenuC3Repository.cs:line 720
+   at THD.Core.Api.Business.DocMenuCService.MenuC31EditInterfaceDataAsync(String UserId, String ProectNumber) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Business\DocMenuCService.cs:line 274
+   at THD.Core.Api.Private.Controllers.PrivateDocMenuCController.MenuC31EditInterfaceData(String UserId, String ProectNumber) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Controllers\PrivateDocMenuCController.cs:line 471
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at THD.Core.Api.Private.ErrorHandlingMiddleware.Invoke(HttpContext context) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Core\ErrorHandlingMiddleware.cs:line 24
+2020/02/10 18:00:33.535    23   System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_doc_menu_c3_4_edit' expects parameter '@id', which was not supplied.
+   at THD.Core.Api.Repository.DataHandler.DocMenuC3Repository.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Repository\DataHandler\DocMenuC3Repository.cs:line 2435
+   at THD.Core.Api.Business.DocMenuCService.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Business\DocMenuCService.cs:line 472
+   at THD.Core.Api.Private.Controllers.PrivateDocMenuCController.UpdateDocMenuC34Edit(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Controllers\PrivateDocMenuCController.cs:line 781
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at THD.Core.Api.Private.ErrorHandlingMiddleware.Invoke(HttpContext context) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Core\ErrorHandlingMiddleware.cs:line 24
+ClientConnectionId:f8837d27-eafa-45a4-a5a2-25e59d0eaf55
+Error Number:201,State:4,Class:16
+2020/02/10 18:11:21.138    30   System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_doc_menu_c3_4_edit' expects parameter '@alert_date', which was not supplied.
+   at THD.Core.Api.Repository.DataHandler.DocMenuC3Repository.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Repository\DataHandler\DocMenuC3Repository.cs:line 2435
+   at THD.Core.Api.Business.DocMenuCService.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Business\DocMenuCService.cs:line 472
+   at THD.Core.Api.Private.Controllers.PrivateDocMenuCController.UpdateDocMenuC34Edit(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Controllers\PrivateDocMenuCController.cs:line 781
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at THD.Core.Api.Private.ErrorHandlingMiddleware.Invoke(HttpContext context) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Core\ErrorHandlingMiddleware.cs:line 24
+ClientConnectionId:f8837d27-eafa-45a4-a5a2-25e59d0eaf55
+Error Number:201,State:4,Class:16
+2020/02/10 18:16:47.530    15   System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_doc_menu_c3_4_edit' expects parameter '@alert_date', which was not supplied.
+   at THD.Core.Api.Repository.DataHandler.DocMenuC3Repository.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Repository\DataHandler\DocMenuC3Repository.cs:line 2433
+   at THD.Core.Api.Business.DocMenuCService.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Business\DocMenuCService.cs:line 472
+   at THD.Core.Api.Private.Controllers.PrivateDocMenuCController.UpdateDocMenuC34Edit(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Controllers\PrivateDocMenuCController.cs:line 781
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at THD.Core.Api.Private.ErrorHandlingMiddleware.Invoke(HttpContext context) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Core\ErrorHandlingMiddleware.cs:line 24
+ClientConnectionId:920b51c3-e7a1-42d4-9cd8-8cbeb45e984b
+Error Number:201,State:4,Class:16
+2020/02/10 18:17:25.854    9   System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_doc_menu_c3_4_edit' expects parameter '@alert_date', which was not supplied.
+   at THD.Core.Api.Repository.DataHandler.DocMenuC3Repository.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Repository\DataHandler\DocMenuC3Repository.cs:line 2433
+   at THD.Core.Api.Business.DocMenuCService.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Business\DocMenuCService.cs:line 472
+   at THD.Core.Api.Private.Controllers.PrivateDocMenuCController.UpdateDocMenuC34Edit(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Controllers\PrivateDocMenuCController.cs:line 781
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at THD.Core.Api.Private.ErrorHandlingMiddleware.Invoke(HttpContext context) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Core\ErrorHandlingMiddleware.cs:line 24
+ClientConnectionId:920b51c3-e7a1-42d4-9cd8-8cbeb45e984b
+Error Number:201,State:4,Class:16
+2020/02/10 18:27:11.267    6   System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_doc_menu_c3_4_edit' expects parameter '@alert_date', which was not supplied.
+   at THD.Core.Api.Repository.DataHandler.DocMenuC3Repository.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Repository\DataHandler\DocMenuC3Repository.cs:line 2435
+   at THD.Core.Api.Business.DocMenuCService.UpdateDocMenuC34EditAsync(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Business\DocMenuCService.cs:line 472
+   at THD.Core.Api.Private.Controllers.PrivateDocMenuCController.UpdateDocMenuC34Edit(ModelMenuC34 model) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Controllers\PrivateDocMenuCController.cs:line 781
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at THD.Core.Api.Private.ErrorHandlingMiddleware.Invoke(HttpContext context) in C:\Work Project\GitHub\Efilling\efilling_api\THD.Core.Api\THD.Core.Api.Private\Core\ErrorHandlingMiddleware.cs:line 24
+ClientConnectionId:1876353c-dd2e-457f-b2b0-a0c620d245c8
+Error Number:201,State:4,Class:16
